@@ -1,45 +1,33 @@
-# Login Page (React + Vite + TailwindCSS)
+# Login Page
 
-A simple and responsive login page built using **React**, **Vite**, and **TailwindCSS**.  
-This project is designed as a starter template for authentication-based applications.
+A simple and responsive **Login Page** built with **React, Vite, and TailwindCSS**.  
+This project is a frontend-only implementation, ideal for learning UI design and authentication layout.
 
 ---
 
 ## 🚀 Features
-
-- ✨ Modern UI with TailwindCSS  
-- 🔑 Login form with validation  
-- 📱 Fully responsive design  
-- ⚡ Fast build with Vite  
-- 🛠️ Easy to customize  
-
----
-
-## 📂 Project Structure
-
-```
-login-page/
- ┣ src/
- ┃ ┣ assets/        # Images and static files
- ┃ ┣ components/    # Reusable components
- ┃ ┣ pages/         # Page-level components (Login, AccountSettings, etc.)
- ┃ ┣ context/       # Context API (Auth, TaskContext, etc.)
- ┃ ┣ App.jsx
- ┃ ┗ main.jsx
- ┣ public/          # Static public assets
- ┣ package.json
- ┗ README.md
-```
+- Clean and modern UI design  
+- Fully responsive layout  
+- Built with **React + Vite**  
+- Styled using **TailwindCSS**  
+- Easy to customize  
 
 ---
 
-## ⚙️ Installation
+## 🛠️ Tech Stack
+- **React** – Frontend framework  
+- **Vite** – Fast development build tool  
+- **TailwindCSS** – Styling and responsiveness  
 
-Clone the repository:
+---
 
+## 📂 Project Setup
+
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/BIKRAM-DEBNATH/login-page.git
 cd login-page
+
 ```
 
 Install dependencies:
