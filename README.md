@@ -1,12 +1,86 @@
-# React + Vite
+# Login Page (React + Vite + TailwindCSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive login page built using **React**, **Vite**, and **TailwindCSS**.  
+This project is designed as a starter template for authentication-based applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✨ Modern UI with TailwindCSS  
+- 🔑 Login form with validation  
+- 📱 Fully responsive design  
+- ⚡ Fast build with Vite  
+- 🛠️ Easy to customize  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+
+```
+login-page/
+ ┣ src/
+ ┃ ┣ assets/        # Images and static files
+ ┃ ┣ components/    # Reusable components
+ ┃ ┣ pages/         # Page-level components (Login, AccountSettings, etc.)
+ ┃ ┣ context/       # Context API (Auth, TaskContext, etc.)
+ ┃ ┣ App.jsx
+ ┃ ┗ main.jsx
+ ┣ public/          # Static public assets
+ ┣ package.json
+ ┗ README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/BIKRAM-DEBNATH/login-page.git
+cd login-page
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here once your app UI is ready)*  
+Example:  
+
+![Login Page UI](./src/assets/image.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 18**  
+- **Vite**  
+- **TailwindCSS**  
+- **Node.js**  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you’d like to improve this project, feel free to fork the repo and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
