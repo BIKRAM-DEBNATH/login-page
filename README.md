@@ -48,22 +48,7 @@ npm run dev
 
 ---
 
-## 🛠️ Tech Stack
 
-- **React 18**  
-- **Vite**  
-- **TailwindCSS**  
-- **Node.js**  
+
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you’d like to improve this project, feel free to fork the repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
