@@ -55,13 +55,8 @@ npm run dev
 ```
 
 ---
+  
 
-## 📸 Screenshots
-
-*(Add screenshots here once your app UI is ready)*  
-Example:  
-
-![Login Page UI](./src/assets/image.png)
 
 ---
 
